@@ -92,11 +92,11 @@ case $opt in
     ;;
 	"19.30-838629-ubuntu-18.04")
 	wget http://download.hiveos.farm/drivers/amdgpu-pro-19.30-838629-ubuntu-18.04.tar.xz
-        version="19.10-838629-ubuntu-18.04";break
+        version="19.30-838629-ubuntu-18.04";break
 	;;
 	"19.30-855429-ubuntu-18.04")
 	wget http://download.hiveos.farm/drivers/amdgpu-pro-19.30-855429-ubuntu-18.04.tar.xz
-        version="19.20-855429-ubuntu-18.04";break	
+        version="19.30-855429-ubuntu-18.04";break	
     ;;
 	"19.30-934563-ubuntu-18.04")
 	wget http://download.hiveos.farm/drivers/amdgpu-pro-19.30-934563-ubuntu-18.04.tar.xz
